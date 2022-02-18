@@ -1,4 +1,9 @@
 from distutils.core import setup
+import gensim.downloader as api
+
+
+api.load("glove-twitter-25") 
+
 
 setup(name="easy_tools",
       version="0.1",
