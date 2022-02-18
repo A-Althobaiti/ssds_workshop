@@ -4,19 +4,9 @@ This is a short course for practical data science, and it is split into three mo
 
 To start exploring the course online, click here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/A-Althobaiti/ssds_workshop/main)
 
-* Module 1: introduction
-  - data, information and knowledge
-  - entropy and statistical functions
-  - Artificial Intelligence (AI) and entropy
+* Module 1: data, information, entropy
 
+* Module 2: scientific approach to practical data science
 
-* Module 2:
-  - ...
-  - ...
-  - ...
+* Module 3: challenges in practice
 
-
-* Module 3:
-  - ...
-  - ...
-  - ...
