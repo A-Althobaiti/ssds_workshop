@@ -2,7 +2,7 @@ from distutils.core import setup
 import gensim.downloader as api
 
 
-api.load("glove-twitter-25") 
+api.load("glove-wiki-gigaword-50")
 
 
 setup(name="easy_tools",
